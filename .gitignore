@@ -1,0 +1,8 @@
+# Local Claude Code preview config — not needed on the live site
+.claude/
+
+# Internal planning doc — keep off the public site
+*.pdf
+
+# macOS
+.DS_Store
